@@ -8,8 +8,6 @@ import SpellCorrector from 'spelling-corrector';
 import { removeStopwords } from 'stopword';
 import natural from 'natural';
 
-const spellCorrector = new SpellCorrector();
-spellCorrector.loadDictionary();
 
 @Injectable()
 export class AppService {
