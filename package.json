@@ -23,9 +23,15 @@
     "@nestjs/common": "^9.0.0",
     "@nestjs/core": "^9.0.0",
     "@nestjs/platform-express": "^9.0.0",
+    "@types/natural": "^5.1.1",
+    "apos-to-lex-form": "^1.0.5",
+    "class-validator": "^0.13.2",
+    "natural": "^5.2.3",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
-    "rxjs": "^7.5.5"
+    "rxjs": "^7.5.5",
+    "spelling-corrector": "^3.0.0",
+    "stopword": "^2.0.2"
   },
   "devDependencies": {
     "@nestjs/cli": "^9.0.0",
